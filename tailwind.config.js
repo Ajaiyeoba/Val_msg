@@ -4,7 +4,9 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        pop: ['Rubik Glitch Pop']
+        pop: ['Rubik Glitch Pop'],
+        protest: [ 'Protest Revolution'],
+        poppins: ['Poppins']
       }
     },
   },
